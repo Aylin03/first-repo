@@ -20,6 +20,7 @@
             <tr><td> <a href="Fotografen.html">Fotografen</a></td></tr>
             <tr><td> <a href="Unterhaltung.html">Unterhaltung</a></td></tr>
             <tr><td> <a href ="bittefunktionier.php">Kontakt&#10094;</a></td></tr>
+            <tr><td> <a href ="about_us.html">Über uns</a></td></tr>
         </table>
     </div>
     <div id="Ss8">
@@ -57,13 +58,26 @@
                     <td><input type="submit" value="Abschicken"></td>
 
     </div>
+    <div>
+        <div id="footer">
+            <div class="column_left">
+                <p>Follow us on <a href="www.facebook.com/test">Facebook</a></p>
+            </div>
+            <div class="column_middle">
+                <p></p>
+            </div>
+            <div class="column_right">
+                <p>Banner<p>
+            </div>
+        </div>
+    </div>
     <?php
     if (isset($_GET["nachname"])&&isset($_GET["email"]))
     {
         echo "Wenn dir die Seite gefallen hat, schreib bitte noch in das";
     }
     ?>
-    <a href="gestebuch.php">G&auml;stebuch</a>
+    <a href="gestebuch.php">Gästebuch</a>
 </div>
 </body>
 </html>
