@@ -61,24 +61,23 @@
     <div>
         <div id="footer">
             <div class="column_left">
-                <p>Follos us on <a href="www.facebook.com/test">Facebook</a></p>
+                <p>Follo us on <a href="www.facebook.com/test">Facebook</a></p>
             </div>
-            <dif> class="column_middle">
+            <div class="column_middle">
                 <p></p>
-            </dif>
+            </div>
             <div class="column_right">
                 <p>Banner<p>
-            </div>
             </div>
         </div>
     </div>
     <?php
-    if (isset($_GET["nachname"])&&isset($_GET["email"]}))
+    if (isset($_GET["nachname"])&&isset($_GET["email"]))
     {
         echo "Wenn dir die Seite gefallen hat, schreib bitte noch in das";
     }
     ?>
-    <a href="gestebuch.php">G&auml;stebuch<a>
+    <a href="gestebuch.php">Gästebuch</a>
 </div>
 </body>
 </html>
