@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
     <title> &#10084; AyRaMel &#10084;</title>
     <meta charset="utf-8">
@@ -64,6 +63,4 @@
     }
     ?>
     <a href="gestebuch.php">G&auml;stebuch</a>
-</div>
-</body>
-</html>
+</div></body></html>
