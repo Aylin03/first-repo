@@ -13,19 +13,15 @@
     </div>
     <div id="db">
         <table>
-            <tr><td> <a href="Startseite.html">Startseite </a></td></tr>
+            <tr><td> <a href="Startseite.html">Startseite</a></td></tr>
             <tr><td><a href="Arten.html">Arten</a></td></tr>
             <tr><td> <a href="Catering.html">Catering</a></td></tr>
             <tr> <td><a href="Dekoration.html">Dekoration</a></td></tr>
             <tr><td> <a href="Fotografen.html">Fotografen</a></td></tr>
             <tr><td> <a href="Unterhaltung.html">Unterhaltung</a></td></tr>
             <tr><td> <a href ="bittefunktionier.php">Kontakt&#10094;</a></td></tr>
-
         </table>
     </div>
-
-
-
     <div id="Ss8">
         <form action="bittefunktionier.php">
             <table>
