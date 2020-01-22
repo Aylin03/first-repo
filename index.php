@@ -61,7 +61,7 @@
     <div>
         <div id="footer">
             <div class="column_left">
-                <p>Follo us on <a href="www.facebook.com/test">Facebook</a></p>
+                <p>Follow us on <a href="www.facebook.com/test">Facebook</a></p>
             </div>
             <div class="column_middle">
                 <p></p>
